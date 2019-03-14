@@ -8,8 +8,6 @@ def levitation_quiz
 	end
 	puts "Wingardium Leviosa"
 	binding.pry
-end
-
-levitation_quiz
+en
 
 
