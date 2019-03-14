@@ -10,6 +10,4 @@ def levitation_quiz
 	binding.pry
 end
 
-levitation_quiz
-
 
