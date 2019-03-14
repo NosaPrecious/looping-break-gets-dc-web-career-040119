@@ -9,4 +9,6 @@ def levitation_quiz
 	puts "Wingardium Leviosa"
 end
 
+levitation_quiz
+
 
